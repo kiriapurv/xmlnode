@@ -6,7 +6,7 @@ Simple XML creator for NodeJS
 ### Sample
 
 ````
-        var XMLNode = require("./xmlnode.js");
+        var XMLNode = require("xmlnode");
 		var parent = new XMLNode("Parent");
 		parent.setAttrs({
 			"key1" : "value1",

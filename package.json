@@ -1,7 +1,7 @@
 {
-    "name" : "XMLNode",
+    "name" : "xmlnode",
     "preferGlobal" : false,
-    "version" : "0.1",
+    "version" : "v0.1.2",
     "author" : "Apurv Kiri <i@apurv.me>",
     "description" : "Simple XML creator",
     "contributors" : [
@@ -16,7 +16,7 @@
     ],
     "repository" : {
         "type" : "git",
-        "url" : "https://github.com/kiriapurv/"
+        "url" : "https://github.com/kiriapurv/xmlnode.git"
     },
     "license" : "Apache"
 }
