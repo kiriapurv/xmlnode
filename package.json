@@ -1,0 +1,22 @@
+{
+    "name" : "XMLNode",
+    "preferGlobal" : false,
+    "version" : "0.1",
+    "author" : "Apurv Kiri <i@apurv.me>",
+    "description" : "Simple XML creator",
+    "contributors" : [
+        {
+            "name" : "Apurv Kiri",
+            "email" : "i@apurv.me"
+        }
+    ],
+    "keywords" : [
+        "xml",
+        "generate"
+    ],
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/kiriapurv/
+    },
+    "license" : "Apache"
+}
