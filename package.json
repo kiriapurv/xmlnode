@@ -1,22 +1,26 @@
 {
-    "name" : "xmlnode",
-    "preferGlobal" : false,
-    "version" : "v0.1.2",
-    "author" : "Apurv Kiri <i@apurv.me>",
-    "description" : "Simple XML creator",
-    "contributors" : [
-        {
-            "name" : "Apurv Kiri",
-            "email" : "i@apurv.me"
-        }
-    ],
-    "keywords" : [
-        "xml",
-        "generate"
-    ],
-    "repository" : {
-        "type" : "git",
-        "url" : "https://github.com/kiriapurv/xmlnode.git"
-    },
-    "license" : "Apache"
+  "name": "xmlnode",
+  "preferGlobal": false,
+  "version": "0.1.4",
+  "author": {
+    "name": "Apurv Kiri",
+    "email": "i@apurv.me"
+  },
+  "description": "Simple XML creator",
+  "main": "./xmlnode.js",
+  "contributors": [
+    {
+      "name": "Apurv Kiri",
+      "email": "i@apurv.me"
+    }
+  ],
+  "keywords": [
+    "xml",
+    "generate"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kiriapurv/xmlnode.git"
+  },
+  "license": "Apache"
 }
